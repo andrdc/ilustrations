@@ -28,8 +28,8 @@
      inkscape:document-units="px"
      showborder="true"
      inkscape:zoom="0.83190816"
-     inkscape:cx="299.31189"
-     inkscape:cy="461.58941"
+     inkscape:cx="164.08061"
+     inkscape:cy="391.87018"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -8708,12 +8708,37 @@
          id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:1.32292;stroke-dasharray:none;stroke-opacity:1"
          x="-588.5484"
-         y="-1.3839899">+1 Recurso</tspan><tspan
+         y="-1.3839899">        +1 Recurso</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:1.32292;stroke-dasharray:none;stroke-opacity:1"
          x="-588.5484"
          y="16.254885"
          id="tspan2">Trabajando de Noche</tspan></text>
+    <g
+       inkscape:label="resource"
+       transform="matrix(-0.264583,0,0,-0.264583,622.31174,4.6004219)"
+       id="g130"
+       style="display:inline;fill:none"
+       sodipodi:insensitive="true">
+      <path
+         inkscape:label="Face:0"
+         style="fill:#515151;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-opacity:1"
+         d="M 34.0108,-26.7615 3.44439,-16.8299 5.50447,31.9033 36.0708,21.9717 Z"
+         id="path128"
+         sodipodi:insensitive="true" />
+      <path
+         inkscape:label="Face:2"
+         style="fill:#696969;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-opacity:1"
+         d="m 34.0108,-26.7615 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1418 z"
+         id="path129"
+         sodipodi:insensitive="true" />
+      <path
+         inkscape:label="Face:3"
+         style="fill:#767676;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-opacity:1"
+         d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
+         id="path130"
+         sodipodi:insensitive="true" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer2"

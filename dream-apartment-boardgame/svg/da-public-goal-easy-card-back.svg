@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="da-actions-back.svg"
+   sodipodi:docname="da-goal-easy-card-back.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -28,7 +28,7 @@
      inkscape:document-units="px"
      showborder="true"
      inkscape:zoom="1"
-     inkscape:cx="283"
+     inkscape:cx="282.5"
      inkscape:cy="501"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
@@ -4416,7 +4416,7 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
-     inkscape:label="da-actions-back"
+     inkscape:label="da-public-goal-easy-card-back"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline;fill:none"
@@ -4435,18 +4435,18 @@
        sodipodi:insensitive="true" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none"
-       x="-499.3295"
-       y="-278.18011"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none"
+       x="-494.20737"
+       y="-289.02585"
        id="text3"
        transform="rotate(149.44101)"
        inkscape:label="card-text-2"
        sodipodi:insensitive="true"><tspan
          sodipodi:role="line"
-         id="tspan3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00360b;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
-         x="-499.3295"
-         y="-278.18011">Actions</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00360b;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="-494.20737"
+         y="-289.02585"
+         id="tspan4">Objetivo Facil - Publico</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none"

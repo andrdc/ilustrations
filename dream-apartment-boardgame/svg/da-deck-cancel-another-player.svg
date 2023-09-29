@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.83074311"
-     inkscape:cx="249.1745"
-     inkscape:cy="467.05172"
+     inkscape:zoom="1.1748482"
+     inkscape:cx="305.14581"
+     inkscape:cy="363.45122"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
@@ -97,6 +97,12 @@
          x="84.749214"
          y="217.44498"
          id="tspan2">de otro jugador</tspan></text>
+    <path
+       id="path1"
+       style="fill:#ff1e00;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+       d="M 83.343749,42.061515 A 52.916668,52.916668 0 0 0 30.427083,94.978181 52.916668,52.916668 0 0 0 83.343749,147.89485 52.916668,52.916668 0 0 0 136.26042,94.978181 52.916668,52.916668 0 0 0 83.343749,42.061515 Z m 1.391647,13.183691 c 8.478077,0.162956 16.941014,3.062367 23.912754,9.257316 L 47.875114,112.54248 C 33.730095,78.89299 59.301163,54.75634 84.735396,55.245206 Z M 118.79688,77.341015 C 137.65691,122.20701 85.91079,150.16077 58.023848,125.38098 Z"
+       inkscape:label="cancel"
+       sodipodi:insensitive="true" />
     <image
        width="13.663741"
        height="12.714838"

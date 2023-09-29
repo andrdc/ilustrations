@@ -28,7 +28,7 @@
      inkscape:document-units="px"
      showborder="true"
      inkscape:zoom="0.70710678"
-     inkscape:cx="154.14928"
+     inkscape:cx="153.44217"
      inkscape:cy="496.38896"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
@@ -38,18 +38,6 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
-    <linearGradient
-       id="linearGradient2"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop2" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="0"
-         id="stop3" />
-    </linearGradient>
     <linearGradient
        id="swatch463"
        inkscape:swatch="solid">
@@ -4405,22 +4393,14 @@
        x2="-262.66376"
        y2="-132.40295"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2"
-       id="linearGradient3"
-       x1="-668.56735"
-       y1="-30.668724"
-       x2="-508.7112"
-       y2="-30.668724"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="da-deck-back"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline;fill:none"
-     transform="rotate(180,335.97078,73.684981)">
+     transform="rotate(180,335.97078,73.684981)"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
        id="rect25"
@@ -4452,14 +4432,15 @@
          y="-323.69916"
          id="tspan2">APARTMENT</tspan></text>
     <rect
-       style="fill:url(#linearGradient3);fill-opacity:1;stroke:#00360b;stroke-width:1.32292;stroke-dasharray:none"
-       id="rect2"
-       width="159.59157"
-       height="224.89583"
-       x="-668.43506"
-       y="-143.11664"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25-9"
+       width="166.6875"
+       height="232.83333"
+       x="-672.60303"
+       y="-146.70851"
+       inkscape:label="card-border"
+       ry="13.250577"
        transform="scale(-1)"
-       ry="4.3052545"
        sodipodi:insensitive="true" />
   </g>
   <metadata

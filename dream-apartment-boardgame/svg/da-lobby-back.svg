@@ -30,10 +30,10 @@
      inkscape:zoom="1"
      inkscape:cx="390.5"
      inkscape:cy="358"
-     inkscape:window-width="1918"
-     inkscape:window-height="1078"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -4399,7 +4399,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline;fill:none"
-     transform="rotate(180,335.97078,73.684981)">
+     transform="rotate(180,335.97078,73.684981)"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:1;fill:#ffffff;stroke-width:0.264583"
        id="rect25"
@@ -4409,24 +4410,38 @@
        y="-671.94159"
        inkscape:label="card-background"
        ry="13.250577"
-       transform="rotate(90)" />
+       transform="rotate(90)"
+       sodipodi:insensitive="true" />
     <path
        style="display:inline;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-dasharray:none"
        d="M 44,628.96277 C 31.730867,627.33754 18.842034,620.27007 11.698394,611.25049 7.42357,605.85309 2.7805488,595.75231 1.520705,589.10918 0.8422615,585.53176 0.5,493.30718 0.5,314.07361 0.5,18.381597 0.0614712,39.704153 6.3990791,27.243096 12.341421,15.559213 22.825623,6.8450022 35.879964,2.7393079 L 43,0.5 h 397 397 l 7.12004,2.2393079 c 13.05434,4.1056943 23.53854,12.8199051 29.48088,24.5037881 6.33761,12.461057 5.89908,-8.861499 5.89908,286.830514 0,178.25535 -0.3441,271.47914 -1.01519,275.0399 -1.31642,6.98476 -6.76505,18.26919 -11.37815,23.56482 -4.95582,5.68904 -14.43858,11.83828 -22.45673,14.5624 L 838,629.5 444,629.62878 C 227.3,629.69961 47.3,629.3999 44,628.96277 Z"
        id="path466"
-       transform="matrix(-0.26458333,0,0,-0.26458333,671.94156,147.36996)" />
+       transform="matrix(-0.26458333,0,0,-0.26458333,671.94156,147.36996)"
+       sodipodi:insensitive="true" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.264583;stroke-dasharray:none"
        x="-554.25665"
        y="-48.402935"
        id="text466"
-       transform="scale(-1)"><tspan
+       transform="scale(-1)"
+       sodipodi:insensitive="true"><tspan
          sodipodi:role="line"
          id="tspan466"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
          x="-554.25665"
          y="-48.402935">LOBBY</tspan></text>
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25-5"
+       width="166.6875"
+       height="232.83333"
+       x="-19.317535"
+       y="-671.94159"
+       inkscape:label="card-border"
+       ry="13.250577"
+       transform="rotate(90)"
+       sodipodi:insensitive="true" />
   </g>
   <metadata
      id="metadata2">

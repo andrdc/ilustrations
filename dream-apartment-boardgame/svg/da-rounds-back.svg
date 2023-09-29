@@ -8,15 +8,15 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   sodipodi:docname="da-character-cat.svg"
-   xml:space="preserve"
+   sodipodi:docname="da-rounds-back.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"><sodipodi:namedview
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
      bordercolor="#000000"
@@ -28,259 +28,31 @@
      inkscape:document-units="px"
      showborder="true"
      inkscape:zoom="1"
-     inkscape:cx="347.5"
-     inkscape:cy="336"
+     inkscape:cx="283"
+     inkscape:cy="501"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" /><defs
-     id="defs1"><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect21"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="18.755412,0.54836826 | 23.311832,0.47021958"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect20"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect19"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="28.656557,0.49625486"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect18"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect17"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="8.9581405,0.23166268 | 108.97034,0.35918421"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect16"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect15"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="33.107664,0.2494763 | 61.569737,0.19192461"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect14"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect13"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="26.629115,0.6031794"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect12"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect11"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="113,3.96875"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect10"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect9"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="0.5,0"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect8"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect7"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="76,3.96875"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect6"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect3"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="33.397458,3.96875"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect1"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><linearGradient
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
        id="swatch463"
-       inkscape:swatch="solid"><stop
+       inkscape:swatch="solid">
+      <stop
          style="stop-color:#00360b;stop-opacity:1;"
          offset="0"
-         id="stop464" /></linearGradient><rect
+         id="stop464" />
+    </linearGradient>
+    <rect
        x="369.45245"
        y="42.099548"
        width="474.78033"
        height="205.7157"
-       id="rect461" /><inkscape:path-effect
+       id="rect461" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect461"
        is_visible="true"
@@ -295,7 +67,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect459"
        is_visible="true"
@@ -306,7 +79,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect457"
        is_visible="true"
@@ -321,7 +95,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect455"
        is_visible="true"
@@ -332,7 +107,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect453"
        is_visible="true"
@@ -347,7 +123,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect451"
        is_visible="true"
@@ -358,7 +135,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect449"
        is_visible="true"
@@ -373,7 +151,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect447"
        is_visible="true"
@@ -384,7 +163,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect445"
        is_visible="true"
@@ -399,7 +179,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect443"
        is_visible="true"
@@ -410,7 +191,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect441"
        is_visible="true"
@@ -425,7 +207,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect439"
        is_visible="true"
@@ -436,7 +219,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect437"
        is_visible="true"
@@ -451,7 +235,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect435"
        is_visible="true"
@@ -462,7 +247,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect433"
        is_visible="true"
@@ -477,7 +263,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect431"
        is_visible="true"
@@ -488,7 +275,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect429"
        is_visible="true"
@@ -503,7 +291,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect427"
        is_visible="true"
@@ -514,7 +303,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect425"
        is_visible="true"
@@ -529,7 +319,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect423"
        is_visible="true"
@@ -540,7 +331,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect421"
        is_visible="true"
@@ -555,7 +347,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect419"
        is_visible="true"
@@ -566,7 +359,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect417"
        is_visible="true"
@@ -581,7 +375,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect415"
        is_visible="true"
@@ -592,7 +387,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect413"
        is_visible="true"
@@ -607,7 +403,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect411"
        is_visible="true"
@@ -618,7 +415,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect409"
        is_visible="true"
@@ -633,7 +431,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect407"
        is_visible="true"
@@ -644,7 +443,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect405"
        is_visible="true"
@@ -659,7 +459,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect403"
        is_visible="true"
@@ -670,7 +471,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect401"
        is_visible="true"
@@ -685,7 +487,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect399"
        is_visible="true"
@@ -696,7 +499,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect397"
        is_visible="true"
@@ -711,7 +515,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect395"
        is_visible="true"
@@ -722,7 +527,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect393"
        is_visible="true"
@@ -737,7 +543,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect391"
        is_visible="true"
@@ -748,7 +555,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect389"
        is_visible="true"
@@ -763,7 +571,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect387"
        is_visible="true"
@@ -774,7 +583,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect385"
        is_visible="true"
@@ -789,7 +599,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect383"
        is_visible="true"
@@ -800,7 +611,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect381"
        is_visible="true"
@@ -815,7 +627,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect379"
        is_visible="true"
@@ -826,7 +639,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect377"
        is_visible="true"
@@ -841,7 +655,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect375"
        is_visible="true"
@@ -852,7 +667,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect373"
        is_visible="true"
@@ -867,7 +683,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect371"
        is_visible="true"
@@ -878,7 +695,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect369"
        is_visible="true"
@@ -893,7 +711,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect367"
        is_visible="true"
@@ -904,7 +723,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect365"
        is_visible="true"
@@ -919,7 +739,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect363"
        is_visible="true"
@@ -930,7 +751,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect361"
        is_visible="true"
@@ -945,7 +767,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect359"
        is_visible="true"
@@ -956,7 +779,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect357"
        is_visible="true"
@@ -971,7 +795,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect355"
        is_visible="true"
@@ -982,7 +807,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect353"
        is_visible="true"
@@ -997,7 +823,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect351"
        is_visible="true"
@@ -1008,7 +835,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect349"
        is_visible="true"
@@ -1023,7 +851,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect347"
        is_visible="true"
@@ -1034,7 +863,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect345"
        is_visible="true"
@@ -1049,7 +879,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect343"
        is_visible="true"
@@ -1060,7 +891,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect341"
        is_visible="true"
@@ -1075,7 +907,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect339"
        is_visible="true"
@@ -1086,7 +919,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect337"
        is_visible="true"
@@ -1101,7 +935,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect335"
        is_visible="true"
@@ -1112,7 +947,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect333"
        is_visible="true"
@@ -1127,7 +963,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect331"
        is_visible="true"
@@ -1138,7 +975,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect329"
        is_visible="true"
@@ -1153,7 +991,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect327"
        is_visible="true"
@@ -1164,7 +1003,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect325"
        is_visible="true"
@@ -1179,7 +1019,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect323"
        is_visible="true"
@@ -1190,7 +1031,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect321"
        is_visible="true"
@@ -1205,7 +1047,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect319"
        is_visible="true"
@@ -1216,7 +1059,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect317"
        is_visible="true"
@@ -1231,7 +1075,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect315"
        is_visible="true"
@@ -1242,7 +1087,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect313"
        is_visible="true"
@@ -1257,7 +1103,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect311"
        is_visible="true"
@@ -1268,7 +1115,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect309"
        is_visible="true"
@@ -1283,7 +1131,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect307"
        is_visible="true"
@@ -1294,7 +1143,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect259"
        is_visible="true"
@@ -1309,7 +1159,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect258"
        is_visible="true"
@@ -1320,7 +1171,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect257"
        is_visible="true"
@@ -1335,7 +1187,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect256"
        is_visible="true"
@@ -1346,7 +1199,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect255"
        is_visible="true"
@@ -1361,7 +1215,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect254"
        is_visible="true"
@@ -1372,7 +1227,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect253"
        is_visible="true"
@@ -1387,7 +1243,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect252"
        is_visible="true"
@@ -1398,7 +1255,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect251"
        is_visible="true"
@@ -1413,7 +1271,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect250"
        is_visible="true"
@@ -1424,7 +1283,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect249"
        is_visible="true"
@@ -1439,7 +1299,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect248"
        is_visible="true"
@@ -1450,7 +1311,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect247"
        is_visible="true"
@@ -1465,7 +1327,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect246"
        is_visible="true"
@@ -1476,7 +1339,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect245"
        is_visible="true"
@@ -1491,7 +1355,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect244"
        is_visible="true"
@@ -1502,7 +1367,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect243"
        is_visible="true"
@@ -1517,7 +1383,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect242"
        is_visible="true"
@@ -1528,7 +1395,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect241"
        is_visible="true"
@@ -1543,7 +1411,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect240"
        is_visible="true"
@@ -1554,7 +1423,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect239"
        is_visible="true"
@@ -1569,7 +1439,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect238"
        is_visible="true"
@@ -1580,7 +1451,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect237"
        is_visible="true"
@@ -1595,7 +1467,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect236"
        is_visible="true"
@@ -1606,7 +1479,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect235"
        is_visible="true"
@@ -1621,7 +1495,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect234"
        is_visible="true"
@@ -1632,7 +1507,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect233"
        is_visible="true"
@@ -1647,7 +1523,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect232"
        is_visible="true"
@@ -1658,7 +1535,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect231"
        is_visible="true"
@@ -1673,7 +1551,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect230"
        is_visible="true"
@@ -1684,7 +1563,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect229"
        is_visible="true"
@@ -1699,7 +1579,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect228"
        is_visible="true"
@@ -1710,7 +1591,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect227"
        is_visible="true"
@@ -1725,7 +1607,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect226"
        is_visible="true"
@@ -1736,7 +1619,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect225"
        is_visible="true"
@@ -1751,7 +1635,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect224"
        is_visible="true"
@@ -1762,7 +1647,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect223"
        is_visible="true"
@@ -1777,7 +1663,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect222"
        is_visible="true"
@@ -1788,7 +1675,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect221"
        is_visible="true"
@@ -1803,7 +1691,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect220"
        is_visible="true"
@@ -1814,7 +1703,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect219"
        is_visible="true"
@@ -1829,7 +1719,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect218"
        is_visible="true"
@@ -1840,7 +1731,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect217"
        is_visible="true"
@@ -1855,7 +1747,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect216"
        is_visible="true"
@@ -1866,7 +1759,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect215"
        is_visible="true"
@@ -1881,7 +1775,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect214"
        is_visible="true"
@@ -1892,7 +1787,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect213"
        is_visible="true"
@@ -1907,7 +1803,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect212"
        is_visible="true"
@@ -1918,7 +1815,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect211"
        is_visible="true"
@@ -1933,7 +1831,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect210"
        is_visible="true"
@@ -1944,7 +1843,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect209"
        is_visible="true"
@@ -1959,7 +1859,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect208"
        is_visible="true"
@@ -1970,7 +1871,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect207"
        is_visible="true"
@@ -1985,7 +1887,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect206"
        is_visible="true"
@@ -1996,7 +1899,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect205"
        is_visible="true"
@@ -2011,7 +1915,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect204"
        is_visible="true"
@@ -2022,7 +1927,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect203"
        is_visible="true"
@@ -2037,7 +1943,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect202"
        is_visible="true"
@@ -2048,7 +1955,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect201"
        is_visible="true"
@@ -2063,7 +1971,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect200"
        is_visible="true"
@@ -2074,7 +1983,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect199"
        is_visible="true"
@@ -2089,7 +1999,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect198"
        is_visible="true"
@@ -2100,7 +2011,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect197"
        is_visible="true"
@@ -2115,7 +2027,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect196"
        is_visible="true"
@@ -2126,7 +2039,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect195"
        is_visible="true"
@@ -2141,7 +2055,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect194"
        is_visible="true"
@@ -2152,7 +2067,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect193"
        is_visible="true"
@@ -2167,7 +2083,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect192"
        is_visible="true"
@@ -2178,7 +2095,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect191"
        is_visible="true"
@@ -2193,7 +2111,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect190"
        is_visible="true"
@@ -2204,7 +2123,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect189"
        is_visible="true"
@@ -2219,7 +2139,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect188"
        is_visible="true"
@@ -2230,7 +2151,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect187"
        is_visible="true"
@@ -2245,7 +2167,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect186"
        is_visible="true"
@@ -2256,7 +2179,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect185"
        is_visible="true"
@@ -2271,7 +2195,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect184"
        is_visible="true"
@@ -2282,7 +2207,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect183"
        is_visible="true"
@@ -2297,7 +2223,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect182"
        is_visible="true"
@@ -2308,7 +2235,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect181"
        is_visible="true"
@@ -2323,7 +2251,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect180"
        is_visible="true"
@@ -2334,7 +2263,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect179"
        is_visible="true"
@@ -2349,7 +2279,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect178"
        is_visible="true"
@@ -2360,7 +2291,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect177"
        is_visible="true"
@@ -2375,7 +2307,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect176"
        is_visible="true"
@@ -2386,7 +2319,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect175"
        is_visible="true"
@@ -2401,7 +2335,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect174"
        is_visible="true"
@@ -2412,7 +2347,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect173"
        is_visible="true"
@@ -2427,7 +2363,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect172"
        is_visible="true"
@@ -2438,7 +2375,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect171"
        is_visible="true"
@@ -2453,7 +2391,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect170"
        is_visible="true"
@@ -2464,7 +2403,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect169"
        is_visible="true"
@@ -2479,7 +2419,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect168"
        is_visible="true"
@@ -2490,7 +2431,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect167"
        is_visible="true"
@@ -2505,7 +2447,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect166"
        is_visible="true"
@@ -2516,7 +2459,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect165"
        is_visible="true"
@@ -2531,7 +2475,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect164"
        is_visible="true"
@@ -2542,7 +2487,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect163"
        is_visible="true"
@@ -2557,7 +2503,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect162"
        is_visible="true"
@@ -2568,7 +2515,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect161"
        is_visible="true"
@@ -2583,7 +2531,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect160"
        is_visible="true"
@@ -2594,7 +2543,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect159"
        is_visible="true"
@@ -2609,7 +2559,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect158"
        is_visible="true"
@@ -2620,7 +2571,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect157"
        is_visible="true"
@@ -2635,7 +2587,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect156"
        is_visible="true"
@@ -2646,7 +2599,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect155"
        is_visible="true"
@@ -2661,7 +2615,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect154"
        is_visible="true"
@@ -2672,7 +2627,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect153"
        is_visible="true"
@@ -2687,7 +2643,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect152"
        is_visible="true"
@@ -2698,7 +2655,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect151"
        is_visible="true"
@@ -2713,7 +2671,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect150"
        is_visible="true"
@@ -2724,7 +2683,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect147"
        is_visible="true"
@@ -2739,7 +2699,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect146"
        is_visible="true"
@@ -2750,7 +2711,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect145"
        is_visible="true"
@@ -2765,7 +2727,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect144"
        is_visible="true"
@@ -2776,7 +2739,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect143"
        is_visible="true"
@@ -2791,7 +2755,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect142"
        is_visible="true"
@@ -2802,7 +2767,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect141"
        is_visible="true"
@@ -2817,7 +2783,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect140"
        is_visible="true"
@@ -2828,7 +2795,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect139"
        is_visible="true"
@@ -2843,7 +2811,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect138"
        is_visible="true"
@@ -2854,7 +2823,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect137"
        is_visible="true"
@@ -2869,7 +2839,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect136"
        is_visible="true"
@@ -2880,7 +2851,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect135"
        is_visible="true"
@@ -2895,7 +2867,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect134"
        is_visible="true"
@@ -2906,7 +2879,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect133"
        is_visible="true"
@@ -2921,7 +2895,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect132"
        is_visible="true"
@@ -2932,7 +2907,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect131"
        is_visible="true"
@@ -2947,7 +2923,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect130"
        is_visible="true"
@@ -2958,7 +2935,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect129"
        is_visible="true"
@@ -2973,7 +2951,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect128"
        is_visible="true"
@@ -2984,7 +2963,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect127"
        is_visible="true"
@@ -2999,7 +2979,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect126"
        is_visible="true"
@@ -3010,7 +2991,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect125"
        is_visible="true"
@@ -3025,7 +3007,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect124"
        is_visible="true"
@@ -3036,7 +3019,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect123"
        is_visible="true"
@@ -3051,7 +3035,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect122"
        is_visible="true"
@@ -3062,7 +3047,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect121"
        is_visible="true"
@@ -3077,7 +3063,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect120"
        is_visible="true"
@@ -3088,7 +3075,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect119"
        is_visible="true"
@@ -3103,7 +3091,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect118"
        is_visible="true"
@@ -3114,7 +3103,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect117"
        is_visible="true"
@@ -3129,7 +3119,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect116"
        is_visible="true"
@@ -3140,7 +3131,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect115"
        is_visible="true"
@@ -3155,7 +3147,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect114"
        is_visible="true"
@@ -3166,7 +3159,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect113"
        is_visible="true"
@@ -3181,7 +3175,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect112"
        is_visible="true"
@@ -3192,7 +3187,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect111"
        is_visible="true"
@@ -3207,7 +3203,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect110"
        is_visible="true"
@@ -3218,7 +3215,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect109"
        is_visible="true"
@@ -3233,7 +3231,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect108"
        is_visible="true"
@@ -3244,7 +3243,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect107"
        is_visible="true"
@@ -3259,7 +3259,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect106"
        is_visible="true"
@@ -3270,7 +3271,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect105"
        is_visible="true"
@@ -3285,7 +3287,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect104"
        is_visible="true"
@@ -3296,7 +3299,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect103"
        is_visible="true"
@@ -3311,7 +3315,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect102"
        is_visible="true"
@@ -3322,7 +3327,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect101"
        is_visible="true"
@@ -3337,7 +3343,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect100"
        is_visible="true"
@@ -3348,7 +3355,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect99"
        is_visible="true"
@@ -3363,7 +3371,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect98"
        is_visible="true"
@@ -3374,7 +3383,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect97"
        is_visible="true"
@@ -3389,7 +3399,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect96"
        is_visible="true"
@@ -3400,7 +3411,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect95"
        is_visible="true"
@@ -3415,7 +3427,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect94"
        is_visible="true"
@@ -3426,7 +3439,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect93"
        is_visible="true"
@@ -3441,7 +3455,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect92"
        is_visible="true"
@@ -3452,7 +3467,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect91"
        is_visible="true"
@@ -3467,7 +3483,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect90"
        is_visible="true"
@@ -3478,7 +3495,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect89"
        is_visible="true"
@@ -3493,7 +3511,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect88"
        is_visible="true"
@@ -3504,7 +3523,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect87"
        is_visible="true"
@@ -3519,7 +3539,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect86"
        is_visible="true"
@@ -3530,7 +3551,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect85"
        is_visible="true"
@@ -3545,7 +3567,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect84"
        is_visible="true"
@@ -3556,7 +3579,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect83"
        is_visible="true"
@@ -3571,7 +3595,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect82"
        is_visible="true"
@@ -3582,7 +3607,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect81"
        is_visible="true"
@@ -3597,7 +3623,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect80"
        is_visible="true"
@@ -3608,7 +3635,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect79"
        is_visible="true"
@@ -3623,7 +3651,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect78"
        is_visible="true"
@@ -3634,7 +3663,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect77"
        is_visible="true"
@@ -3649,7 +3679,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect76"
        is_visible="true"
@@ -3660,7 +3691,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect75"
        is_visible="true"
@@ -3675,7 +3707,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect74"
        is_visible="true"
@@ -3686,7 +3719,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect73"
        is_visible="true"
@@ -3701,7 +3735,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect72"
        is_visible="true"
@@ -3712,7 +3747,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect71"
        is_visible="true"
@@ -3727,7 +3763,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect70"
        is_visible="true"
@@ -3738,7 +3775,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect69"
        is_visible="true"
@@ -3753,7 +3791,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect68"
        is_visible="true"
@@ -3764,7 +3803,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect67"
        is_visible="true"
@@ -3779,7 +3819,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect66"
        is_visible="true"
@@ -3790,7 +3831,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect65"
        is_visible="true"
@@ -3805,7 +3847,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect64"
        is_visible="true"
@@ -3816,7 +3859,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect63"
        is_visible="true"
@@ -3831,7 +3875,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect62"
        is_visible="true"
@@ -3842,7 +3887,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect61"
        is_visible="true"
@@ -3857,7 +3903,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect60"
        is_visible="true"
@@ -3868,12 +3915,14 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><rect
+       step="1" />
+    <rect
        x="70.288574"
        y="184.6727"
        width="242.65167"
        height="88.277222"
-       id="rect59" /><inkscape:path-effect
+       id="rect59" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect57"
        is_visible="true"
@@ -3888,7 +3937,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect56"
        is_visible="true"
@@ -3899,7 +3949,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect55"
        is_visible="true"
@@ -3914,7 +3965,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect54"
        is_visible="true"
@@ -3925,7 +3977,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect53"
        is_visible="true"
@@ -3940,7 +3993,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect52"
        is_visible="true"
@@ -3951,7 +4005,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect51"
        is_visible="true"
@@ -3966,7 +4021,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect50"
        is_visible="true"
@@ -3977,7 +4033,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect49"
        is_visible="true"
@@ -3992,7 +4049,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect48"
        is_visible="true"
@@ -4003,7 +4061,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect47"
        is_visible="true"
@@ -4018,7 +4077,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect46"
        is_visible="true"
@@ -4029,7 +4089,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect45"
        is_visible="true"
@@ -4044,7 +4105,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect44"
        is_visible="true"
@@ -4055,7 +4117,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect43"
        is_visible="true"
@@ -4070,7 +4133,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect42"
        is_visible="true"
@@ -4081,7 +4145,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect41"
        is_visible="true"
@@ -4096,7 +4161,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect40"
        is_visible="true"
@@ -4107,7 +4173,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect39"
        is_visible="true"
@@ -4122,7 +4189,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect38"
        is_visible="true"
@@ -4133,7 +4201,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect37"
        is_visible="true"
@@ -4148,7 +4217,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect36"
        is_visible="true"
@@ -4159,7 +4229,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect35"
        is_visible="true"
@@ -4174,7 +4245,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect34"
        is_visible="true"
@@ -4185,7 +4257,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect33"
        is_visible="true"
@@ -4200,7 +4273,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect32"
        is_visible="true"
@@ -4211,7 +4285,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect31"
        is_visible="true"
@@ -4226,7 +4301,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect30"
        is_visible="true"
@@ -4237,7 +4313,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="powerstroke"
        id="path-effect28"
        is_visible="true"
@@ -4252,7 +4329,8 @@
        miter_limit="4"
        not_jump="true"
        sort_points="true"
-       message="display:inline;fill:#000000;fill-rule:nonzero;stroke:none" /><inkscape:path-effect
+       message="display:inline;fill:#000000;fill-rule:nonzero;stroke:none" />
+    <inkscape:path-effect
        effect="simplify"
        id="path-effect27"
        is_visible="true"
@@ -4263,7 +4341,8 @@
        helper_size="0"
        simplify_individual_paths="false"
        simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
+       step="1" />
+    <inkscape:path-effect
        effect="bspline"
        id="path-effect26"
        is_visible="true"
@@ -4274,7 +4353,8 @@
        apply_no_weight="true"
        apply_with_weight="true"
        only_selected="false"
-       uniform="false" /><inkscape:path-effect
+       uniform="false" />
+    <inkscape:path-effect
        effect="bspline"
        id="path-effect25"
        is_visible="true"
@@ -4285,7 +4365,8 @@
        apply_no_weight="true"
        apply_with_weight="true"
        only_selected="false"
-       uniform="false" /><inkscape:path-effect
+       uniform="false" />
+    <inkscape:path-effect
        effect="bspline"
        id="path-effect2"
        is_visible="true"
@@ -4296,12 +4377,14 @@
        apply_no_weight="true"
        apply_with_weight="true"
        only_selected="false"
-       uniform="false" /><rect
+       uniform="false" />
+    <rect
        x="70.288574"
        y="184.6727"
        width="242.65167"
        height="88.277222"
-       id="rect60" /><linearGradient
+       id="rect60" />
+    <linearGradient
        inkscape:collect="always"
        xlink:href="#swatch463"
        id="linearGradient464"
@@ -4309,703 +4392,17 @@
        y1="-132.40295"
        x2="-262.66376"
        y2="-132.40295"
-       gradientUnits="userSpaceOnUse" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-0-8-9-8-97"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-6-4-3-7-5"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-6-2-7-3"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-1-5-2-1"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-2-4-0-4"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-0-3-6-3"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-0-8-9-8-3"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-6-4-3-7-04"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-6-2-7-76"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-1-5-2-3"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-2-4-0-9"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-0-3-6-62"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-0-8-9-8-9"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-6-4-3-7-0"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-6-2-7-0"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-1-5-2-9"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-2-4-0-5"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-0-3-6-6"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-0-8-9-8-7"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-6-4-3-7-1"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-6-2-7-7"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-1-5-2-7"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-2-4-0-6"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-0-3-6-5"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-0-8-9-8"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-6-4-3-7"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-6-2-7"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-1-5-2"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-2-4-0"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-0-3-6"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-0-8-9"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-6-4-3"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-6-2"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-1-5"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-2-4"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-0-3"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-0-8"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-6-4"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-6"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-1"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-2"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-0"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2-0"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9-6"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><inkscape:path-effect
-       effect="simplify"
-       id="path-effect4-2"
-       is_visible="true"
-       lpeversion="1.3"
-       threshold="0.012"
-       steps="1"
-       smooth_angles="0"
-       helper_size="0"
-       simplify_individual_paths="false"
-       simplify_just_coalesce="false"
-       step="1" /><inkscape:path-effect
-       effect="powerstroke"
-       id="path-effect5-9"
-       is_visible="true"
-       lpeversion="1.3"
-       scale_width="1"
-       interpolator_type="CentripetalCatmullRom"
-       interpolator_beta="0.75"
-       start_linecap_type="round"
-       end_linecap_type="round"
-       offset_points="46.532232,0.69872659 | 163.0575,0.63363839"
-       linejoin_type="spiro"
-       miter_limit="4"
-       not_jump="true"
-       sort_points="true"
-       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient70"
-       id="linearGradient71"
-       x1="154.03188"
-       y1="710.98309"
-       x2="196.0883"
-       y2="710.98309"
-       gradientUnits="userSpaceOnUse" /><linearGradient
-       id="linearGradient70"
-       inkscape:collect="always"><stop
-         style="stop-color:#1d6d6c;stop-opacity:1;"
-         offset="0"
-         id="stop70" /><stop
-         style="stop-color:#1d6d6c;stop-opacity:0;"
-         offset="1"
-         id="stop71" /></linearGradient><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient75"
-       id="linearGradient74"
-       x1="154.03188"
-       y1="710.98309"
-       x2="196.0883"
-       y2="710.98309"
-       gradientUnits="userSpaceOnUse" /><linearGradient
-       id="linearGradient75"
-       inkscape:collect="always"><stop
-         style="stop-color:#1d6d6c;stop-opacity:1;"
-         offset="0"
-         id="stop74" /><stop
-         style="stop-color:#1a6160;stop-opacity:0;"
-         offset="1"
-         id="stop75" /></linearGradient><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient38"
-       id="linearGradient39"
-       x1="-608.44159"
-       y1="58.390671"
-       x2="-568.75409"
-       y2="58.390671"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.63291574,0,0,0.65333332,389.37307,162.45972)" /><linearGradient
-       id="linearGradient38"
-       inkscape:collect="always"><stop
-         style="stop-color:#d0d9da;stop-opacity:1;"
-         offset="0.52820522"
-         id="stop38" /><stop
-         style="stop-color:#215454;stop-opacity:1;"
-         offset="1"
-         id="stop39" /></linearGradient><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient70"
-       id="linearGradient1"
-       gradientUnits="userSpaceOnUse"
-       x1="154.03188"
-       y1="710.98309"
-       x2="196.0883"
-       y2="710.98309" /><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient70"
-       id="linearGradient2"
-       gradientUnits="userSpaceOnUse"
-       x1="154.03188"
-       y1="710.98309"
-       x2="196.0883"
-       y2="710.98309" /></defs><g
-     inkscape:label="character-cat"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="da-rounds-card-back"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline;fill:none"
      transform="rotate(180,335.97078,73.684981)"
-     sodipodi:insensitive="true"><rect
-       style="display:inline;opacity:1;fill:#ffffff;stroke-width:0.264583"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
        id="rect25"
        width="166.6875"
        height="232.83333"
@@ -5014,323 +4411,43 @@
        inkscape:label="card-background"
        ry="13.250577"
        transform="scale(-1)"
-       sodipodi:insensitive="true" /><text
+       sodipodi:insensitive="true" />
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#00360b;stroke:#00360b;stroke-width:0.264583"
-       x="-552.96405"
-       y="57.495953"
-       id="text133"
-       transform="rotate(180,-4.9908885e-6,-4.3088177e-7)"
-       inkscape:label="effect"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none"
+       x="-494.20737"
+       y="-289.02585"
+       id="text3"
+       transform="rotate(149.44101)"
+       inkscape:label="card-text-2"
        sodipodi:insensitive="true"><tspan
          sodipodi:role="line"
-         id="tspan133"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="-552.96405"
-         y="57.495953">+1</tspan><tspan
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00360b;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="-494.20737"
+         y="-289.02585">Rondas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none"
+       x="-484.7562"
+       y="-363.38666"
+       id="text1"
+       transform="rotate(147.80533)"
+       inkscape:label="card-text"
+       sodipodi:insensitive="true"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="-552.96405"
-         y="75.134827"
-         id="tspan134">Recurso</tspan></text><g
-       inkscape:label="resource"
-       transform="matrix(-0.17800077,0,0,-0.20008699,578.65724,-50.643844)"
-       id="g130"
-       sodipodi:insensitive="true"><path
-         inkscape:label="Face:0"
-         style="fill:#515151;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-opacity:1"
-         d="m 87.692092,-17.754647 -30.56641,9.9315999 2.06008,48.7332001 30.56633,-9.9316 z"
-         id="path128"
-         sodipodi:insensitive="true" /><path
-         inkscape:label="Face:2"
-         style="fill:#696969;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-opacity:1"
-         d="m 87.692092,-17.754647 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1417999 z"
-         id="path129"
-         sodipodi:insensitive="true" /><path
-         inkscape:label="Face:3"
-         style="fill:#767676;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-opacity:1"
-         d="m 57.125682,-7.8230471 -39.51519,-5.1417999 2.06,48.7332 39.51527,5.1418 z"
-         id="path130"
-         sodipodi:insensitive="true" /></g><g
-       inkscape:groupmode="layer"
-       id="layer2"
-       inkscape:label="moon"
-       transform="rotate(180,322.45992,70.882363)"
-       style="display:inline;fill:none"
-       sodipodi:insensitive="true"><path
-         sodipodi:type="star"
-         style="display:inline;fill:url(#linearGradient1);fill-opacity:1;stroke-width:0.264583"
-         id="path40"
-         inkscape:flatsided="false"
-         sodipodi:sides="4"
-         sodipodi:cx="175.06009"
-         sodipodi:cy="710.98309"
-         sodipodi:r1="21.379002"
-         sodipodi:r2="8.5516005"
-         sodipodi:arg1="1.7534799"
-         sodipodi:arg2="2.5388781"
-         inkscape:rounded="0.1"
-         inkscape:randomized="0"
-         d="m 171.17618,732.00634 c -1.62072,-0.29942 -2.2266,-14.81777 -3.1609,-16.17551 -0.9343,-1.35774 -14.27786,-7.11092 -13.97844,-8.73164 0.29942,-1.62072 14.81777,-2.2266 16.17551,-3.1609 1.35774,-0.93431 7.11092,-14.27786 8.73164,-13.97845 1.62072,0.29942 2.2266,14.81777 3.16091,16.17552 0.9343,1.35774 14.27786,7.11092 13.97844,8.73164 -0.29942,1.62072 -14.81777,2.2266 -16.17551,3.1609 -1.35774,0.9343 -7.11093,14.27786 -8.73165,13.97844 z"
-         transform="matrix(0.12189088,0,0,0.12582303,-19.620553,100.83149)"
-         inkscape:transform-center-x="-0.23670512"
-         inkscape:transform-center-y="0.44969923"
-         inkscape:label="start-03"
-         sodipodi:insensitive="true" /><path
-         sodipodi:type="star"
-         style="display:inline;fill:url(#linearGradient74);fill-opacity:1;stroke-width:0.264583"
-         id="path40-9"
-         inkscape:flatsided="false"
-         sodipodi:sides="4"
-         sodipodi:cx="175.06009"
-         sodipodi:cy="710.98309"
-         sodipodi:r1="21.379002"
-         sodipodi:r2="8.5516005"
-         sodipodi:arg1="1.7534799"
-         sodipodi:arg2="2.5388781"
-         inkscape:rounded="0.1"
-         inkscape:randomized="0"
-         d="m 171.17618,732.00634 c -1.62072,-0.29942 -2.2266,-14.81777 -3.1609,-16.17551 -0.9343,-1.35774 -14.27786,-7.11092 -13.97844,-8.73164 0.29942,-1.62072 14.81777,-2.2266 16.17551,-3.1609 1.35774,-0.93431 7.11092,-14.27786 8.73164,-13.97845 1.62072,0.29942 2.2266,14.81777 3.16091,16.17552 0.9343,1.35774 14.27786,7.11092 13.97844,8.73164 -0.29942,1.62072 -14.81777,2.2266 -16.17551,3.1609 -1.35774,0.9343 -7.11093,14.27786 -8.73165,13.97844 z"
-         transform="matrix(0.12189088,0,0,0.12582303,10.624584,121.469)"
-         inkscape:transform-center-x="-0.23670481"
-         inkscape:transform-center-y="0.44970204"
-         inkscape:label="start-02"
-         sodipodi:insensitive="true" /><path
-         sodipodi:type="star"
-         style="display:inline;fill:url(#linearGradient2);fill-opacity:1;stroke-width:0.264583"
-         id="path40-0"
-         inkscape:flatsided="false"
-         sodipodi:sides="4"
-         sodipodi:cx="175.06009"
-         sodipodi:cy="710.98309"
-         sodipodi:r1="21.379002"
-         sodipodi:r2="8.5516005"
-         sodipodi:arg1="1.7534799"
-         sodipodi:arg2="2.5388781"
-         inkscape:rounded="0.1"
-         inkscape:randomized="0"
-         d="m 171.17618,732.00634 c -1.62072,-0.29942 -2.2266,-14.81777 -3.1609,-16.17551 -0.9343,-1.35774 -14.27786,-7.11092 -13.97844,-8.73164 0.29942,-1.62072 14.81777,-2.2266 16.17551,-3.1609 1.35774,-0.93431 7.11092,-14.27786 8.73164,-13.97845 1.62072,0.29942 2.2266,14.81777 3.16091,16.17552 0.9343,1.35774 14.27786,7.11092 13.97844,8.73164 -0.29942,1.62072 -14.81777,2.2266 -16.17551,3.1609 -1.35774,0.9343 -7.11093,14.27786 -8.73165,13.97844 z"
-         transform="matrix(0.12189088,0,0,0.12582303,12.782616,111.15025)"
-         inkscape:transform-center-x="-0.23670473"
-         inkscape:transform-center-y="0.44970197"
-         inkscape:label="start-01"
-         sodipodi:insensitive="true" /><path
-         sodipodi:type="star"
-         style="display:inline;fill:url(#linearGradient71);fill-opacity:1;stroke-width:0.264583"
-         id="path40-6"
-         inkscape:flatsided="false"
-         sodipodi:sides="4"
-         sodipodi:cx="175.06009"
-         sodipodi:cy="710.98309"
-         sodipodi:r1="21.379002"
-         sodipodi:r2="8.5516005"
-         sodipodi:arg1="1.7534799"
-         sodipodi:arg2="2.5388781"
-         inkscape:rounded="0.1"
-         inkscape:randomized="0"
-         d="m 171.17618,732.00634 c -1.62072,-0.29942 -2.2266,-14.81777 -3.1609,-16.17551 -0.9343,-1.35774 -14.27786,-7.11092 -13.97844,-8.73164 0.29942,-1.62072 14.81777,-2.2266 16.17551,-3.1609 1.35774,-0.93431 7.11092,-14.27786 8.73164,-13.97845 1.62072,0.29942 2.2266,14.81777 3.16091,16.17552 0.9343,1.35774 14.27786,7.11092 13.97844,8.73164 -0.29942,1.62072 -14.81777,2.2266 -16.17551,3.1609 -1.35774,0.9343 -7.11093,14.27786 -8.73165,13.97844 z"
-         transform="matrix(0.12189088,0,0,0.12582303,-21.778589,111.15025)"
-         inkscape:transform-center-x="-0.23670512"
-         inkscape:transform-center-y="0.4497033"
-         inkscape:label="start-00"
-         sodipodi:insensitive="true" /><path
-         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.186362;stroke-dasharray:none"
-         id="path492-8-3"
-         sodipodi:type="arc"
-         sodipodi:cx="16.84024"
-         sodipodi:cy="200.60829"
-         sodipodi:rx="12.815737"
-         sodipodi:ry="13.229167"
-         sodipodi:start="0"
-         sodipodi:end="6.2776255"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
-         d="M 29.655977,200.60829 A 12.815737,13.229167 0 0 1 16.858054,213.83745 12.815737,13.229167 0 0 1 4.0245532,200.64507 12.815737,13.229167 0 0 1 16.786801,187.37924 a 12.815737,13.229167 0 0 1 12.868978,13.1555"
-         inkscape:label="black-circle"
-         sodipodi:insensitive="true" /><path
-         style="display:inline;fill:url(#linearGradient39);fill-opacity:1;fill-rule:nonzero;stroke-width:0.182635;stroke-dasharray:none"
-         id="path492-8"
-         sodipodi:type="arc"
-         sodipodi:cx="16.84024"
-         sodipodi:cy="200.60829"
-         sodipodi:rx="12.559422"
-         sodipodi:ry="12.964583"
-         sodipodi:start="0"
-         sodipodi:end="6.2776255"
-         sodipodi:open="true"
-         sodipodi:arc-type="arc"
-         d="M 29.399662,200.60829 A 12.559422,12.964583 0 0 1 16.857697,213.57286 12.559422,12.964583 0 0 1 4.2808675,200.64433 12.559422,12.964583 0 0 1 16.78787,187.64382 12.559422,12.964583 0 0 1 29.399468,200.53621"
-         inkscape:label="gray-circle"
-         sodipodi:insensitive="true" /></g><image
-       width="166.6875"
-       height="232.83333"
-       preserveAspectRatio="none"
-       style="display:inline;fill:none;image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnYAAANwCAYAAACieidQAAAABHNCSVQICAgIfAhkiAAAIABJREFU&#10;eJzs3Xe4M0X9sPGbKlW6iCBF7IoCKiKoqIAooKIoRRFRBBWEn9IsCIKNIqCAAtKlCQhI712qIL33&#10;Jr3Xh3rePyZ5M7s7m3aSbHLO/bmuvUh2Z2e/m+Rh5sxOAUmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmS&#10;JEmSJEmSJEmSJEmSJEmS6qapOgBJ4zY9MBXwRtWBSJIkqXt/JVToXgP2AWauNhxJkiR140vAWG57&#10;R6URSZIkqSv7U6zYHQrMUmVQkqTqTF11AJJ6ah3gJmDNqgORJElS+66h2GIXbztUF5okSZLatQrN&#10;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&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&#10;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwHL0fyr4N2Eu&#10;DCJCAAAAAElFTkSuQmCC&#10;"
-       id="image1"
-       x="-671.94159"
-       y="-134.93695"
-       transform="scale(-1)"
-       inkscape:label="cat-drawing"
-       sodipodi:insensitive="true" /><g
-       inkscape:groupmode="layer"
-       id="layer3"
-       inkscape:label="energy"
-       style="display:inline;fill:none"
-       transform="translate(-1.5368295,-3.2209201)"
-       sodipodi:insensitive="true"><text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#00360b;stroke:#00360b;stroke-width:0.264583"
-         x="-631.14447"
-         y="-132.13658"
-         id="text133-7"
-         transform="scale(-1)"
-         inkscape:label="quantity"
-         sodipodi:insensitive="true"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-           x="-631.14447"
-           y="-132.13658"
-           id="tspan134-1">4</tspan></text><g
-         inkscape:label="resource"
-         transform="matrix(-0.08839077,0,0,-0.09854408,634.28307,125.62397)"
-         id="g130-4"
-         style="display:inline;fill:#248821;fill-opacity:1;stroke-width:2.83494;stroke-dasharray:none"
-         sodipodi:insensitive="true"><path
-           inkscape:label="Face:0"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="M 34.0108,-26.7615 3.44439,-16.8299 5.50447,31.9033 36.0708,21.9717 Z"
-           id="path128-3"
-           sodipodi:insensitive="true" /><path
-           inkscape:label="Face:2"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="m 34.0108,-26.7615 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1418 z"
-           id="path129-1"
-           sodipodi:insensitive="true" /><path
-           inkscape:label="Face:3"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
-           id="path130-4"
-           sodipodi:insensitive="true" /></g><g
-         inkscape:label="resource"
-         transform="matrix(-0.08839077,0,0,-0.09854408,634.06701,118.77137)"
-         id="g130-4-6"
-         style="display:inline;fill:#248821;fill-opacity:1;stroke-width:2.83494;stroke-dasharray:none"
-         sodipodi:insensitive="true"><path
-           inkscape:label="Face:0"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="M 34.0108,-26.7615 3.44439,-16.8299 5.50447,31.9033 36.0708,21.9717 Z"
-           id="path128-3-8"
-           sodipodi:insensitive="true" /><path
-           inkscape:label="Face:2"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="m 34.0108,-26.7615 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1418 z"
-           id="path129-1-9"
-           sodipodi:insensitive="true" /><path
-           inkscape:label="Face:3"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
-           id="path130-4-2"
-           sodipodi:insensitive="true" /></g><g
-         inkscape:label="resource"
-         transform="matrix(-0.08839077,0,0,-0.09854408,627.15935,125.62397)"
-         id="g130-4-9"
-         style="display:inline;fill:#248821;fill-opacity:1;stroke-width:2.83494;stroke-dasharray:none"
-         sodipodi:insensitive="true"><path
-           inkscape:label="Face:0"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="M 34.0108,-26.7615 3.44439,-16.8299 5.50447,31.9033 36.0708,21.9717 Z"
-           id="path128-3-5"
-           sodipodi:insensitive="true" /><path
-           inkscape:label="Face:2"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="m 34.0108,-26.7615 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1418 z"
-           id="path129-1-0"
-           sodipodi:insensitive="true" /><path
-           inkscape:label="Face:3"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
-           id="path130-4-4"
-           sodipodi:insensitive="true" /></g><g
-         inkscape:label="resource"
-         transform="matrix(-0.08839077,0,0,-0.09854408,626.94329,118.51802)"
-         id="g130-4-61"
-         style="display:inline;fill:#248821;fill-opacity:1;stroke-width:2.83494;stroke-dasharray:none"
-         sodipodi:insensitive="true"><path
-           inkscape:label="Face:0"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="M 34.0108,-26.7615 3.44439,-16.8299 5.50447,31.9033 36.0708,21.9717 Z"
-           id="path128-3-59"
-           sodipodi:insensitive="true" /><path
-           inkscape:label="Face:2"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="m 34.0108,-26.7615 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1418 z"
-           id="path129-1-4"
-           sodipodi:insensitive="true" /><path
-           inkscape:label="Face:3"
-           style="fill:#248821;fill-opacity:1;stroke:#000000;stroke-width:2.83494;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
-           id="path130-4-9"
-           sodipodi:insensitive="true" /></g><g
-         inkscape:groupmode="layer"
-         id="layer2-7"
-         inkscape:label="food-can"
-         style="display:inline;fill:none"
-         sodipodi:insensitive="true"><path
-           id="path22"
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-           d="m 664.44522,115.1628 c -8.54749,-4.24871 -15.51769,-2.87369 -21.93733,0.0173 m 0.13212,23.97237 -0.13212,-23.97236 m 21.80504,23.97236 0.13229,-23.98967 m -21.80521,23.98968 a 10.836458,2.0956793 0 0 1 10.8214,-2.09568 10.836458,2.0956793 0 0 1 10.85148,2.08985 10.836458,2.0956793 0 0 1 -10.79123,2.10149 10.836458,2.0956793 0 0 1 -10.88148,-2.08401"
-           sodipodi:insensitive="true" /><rect
-           style="display:inline;fill:#b9d7c6;fill-opacity:1;stroke:#000000;stroke-width:0.25668;stroke-dasharray:none;stroke-opacity:1"
-           id="rect23"
-           width="20.635298"
-           height="14.040864"
-           x="-663.79413"
-           y="-133.88046"
-           transform="scale(-1)"
-           ry="7.020432"
-           sodipodi:insensitive="true" /><text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-           x="-653.55688"
-           y="-128.05174"
-           id="text23"
-           transform="scale(-1)"
-           sodipodi:insensitive="true"><tspan
-             sodipodi:role="line"
-             id="tspan23"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-             x="-653.55688"
-             y="-128.05174">PET</tspan><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-             x="-653.55688"
-             y="-122.76008"
-             id="tspan24">FOOD</tspan></text><path
-           style="display:inline;fill:#c4c8b7;fill-opacity:1;stroke:#00360b;stroke-width:0.0330729;stroke-dasharray:none;stroke-opacity:1"
-           d="m 655.50025,137.23796 c 4.28355,0.16809 7.75003,0.83423 8.49704,1.63285 0.22864,0.24444 0.20244,0.42274 -0.0973,0.66201 -0.77063,0.61518 -3.15486,1.15057 -6.24999,1.40347 -1.25988,0.10295 -1.75434,0.12223 -3.58841,0.13992 -2.87654,0.0278 -4.84703,-0.0817 -6.99493,-0.38873 -2.57287,-0.36772 -4.28294,-0.985 -4.28294,-1.54602 0,-0.20191 0.3999,-0.51378 0.94644,-0.7381 1.30908,-0.53729 3.58462,-0.91365 6.79262,-1.12345 0.52116,-0.0341 4.35458,-0.0664 4.97748,-0.0419 z"
-           id="path25"
-           sodipodi:insensitive="true" /><path
-           style="display:inline;fill:#217844;fill-opacity:1;stroke:#00360b;stroke-width:0.0330729;stroke-dasharray:none;stroke-opacity:1"
-           d="m 654.80964,112.64376 c 2.80959,0.16074 5.55984,0.84977 8.38006,2.09949 0.31833,0.14106 0.69412,0.31435 0.83509,0.38509 l 0.25632,0.12861 -8e-4,1.85998 c -4.2e-4,1.02299 -0.0224,5.46162 -0.0488,9.86363 -0.0264,4.402 -0.0484,8.81838 -0.0488,9.81417 l -7.6e-4,1.81052 -0.15367,-0.11729 c -0.69774,-0.5326 -2.67081,-1.02932 -5.17107,-1.30183 -1.85904,-0.20262 -2.88193,-0.25007 -5.39089,-0.25007 -2.24161,0 -2.74831,0.0176 -4.33255,0.15011 -3.02582,0.25318 -5.39989,0.78871 -6.21771,1.40257 l -0.11575,0.0869 -0.009,-0.24128 c -0.0242,-0.68017 -0.13283,-23.03214 -0.11202,-23.05317 0.0358,-0.0362 0.78733,-0.35804 1.52621,-0.65365 2.74396,-1.09778 5.20636,-1.71307 7.73906,-1.93378 0.71588,-0.0624 2.19646,-0.0882 2.86473,-0.05 z m -5.67593,7.12197 c -1.39703,0.23187 -2.56479,0.76195 -3.61169,1.63948 -1.2201,1.0227 -2.07502,2.50693 -2.38888,4.14735 -0.13923,0.72767 -0.14735,1.7192 -0.0204,2.48633 0.51536,3.1134 2.98228,5.50035 6.12014,5.92174 0.28208,0.0379 1.07989,0.0467 4.24987,0.0471 3.70638,4.6e-4 3.92477,-0.003 4.34347,-0.0644 3.15106,-0.46359 5.56638,-2.88951 6.04333,-6.06986 0.0741,-0.49396 0.0739,-1.52544 -3.4e-4,-2.01745 -0.19852,-1.31555 -0.72359,-2.52407 -1.53036,-3.52227 -0.43453,-0.53763 -1.18688,-1.19824 -1.79704,-1.57789 -0.91905,-0.57184 -2.12909,-0.95883 -3.27222,-1.0465 -0.0819,-0.006 -1.86779,-0.009 -3.96875,-0.006 -3.46208,0.005 -3.85245,0.0105 -4.16718,0.0627 z"
-           id="path26"
-           sodipodi:insensitive="true" /><path
-           style="display:inline;fill:#7a7a7a;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-           id="path27"
-           transform="scale(-1)"
-           sodipodi:type="arc"
-           sodipodi:cx="-659.88574"
-           sodipodi:cy="-139.15483"
-           sodipodi:rx="1.9808525"
-           sodipodi:ry="0.51006687"
-           sodipodi:start="0"
-           sodipodi:end="6.2776255"
-           sodipodi:open="true"
-           sodipodi:arc-type="arc"
-           d="m -657.90489,-139.15483 a 1.9808525,0.51006687 0 0 1 -1.9781,0.51007 1.9808525,0.51006687 0 0 1 -1.9836,-0.50865 1.9808525,0.51006687 0 0 1 1.97259,-0.51148 1.9808525,0.51006687 0 0 1 1.98908,0.50722"
-           sodipodi:insensitive="true" /></g></g><rect
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00360b;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="-484.7562"
+         y="-363.38666">DREAM</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.75px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00360b;fill-opacity:1;stroke-width:0.264583;stroke-dasharray:none"
+         x="-484.7562"
+         y="-323.69916"
+         id="tspan2">APARTMENT</tspan></text>
+    <rect
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none;stroke-opacity:1"
-       id="rect25-7"
+       id="rect25-3"
        width="166.6875"
        height="232.83333"
        x="-671.94159"
@@ -5338,6 +4455,13 @@
        inkscape:label="card-border"
        ry="13.250577"
        transform="scale(-1)"
-       sodipodi:insensitive="true" /></g><metadata
-     id="metadata2"><rdf:RDF><cc:Work
-         rdf:about="" /></rdf:RDF></metadata></svg>
+       sodipodi:insensitive="true" />
+  </g>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="" />
+    </rdf:RDF>
+  </metadata>
+</svg>

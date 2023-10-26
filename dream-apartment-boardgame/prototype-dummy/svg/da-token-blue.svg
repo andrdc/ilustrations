@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916666 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="da-token-blue.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.0680976"
+     inkscape:cx="98.758265"
+     inkscape:cy="108.37334"
+     inkscape:window-width="1918"
+     inkscape:window-height="1059"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="token-blue"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.0710689"
+       id="rect25"
+       width="52.916668"
+       height="52.916668"
+       x="-53.0149"
+       y="-0.081778556"
+       inkscape:label="card-background"
+       ry="3.0114946"
+       transform="rotate(-90)"
+       sodipodi:insensitive="true" />
+    <path
+       id="path620"
+       style="display:inline;fill:#0024ff;fill-opacity:1;stroke:#000000;stroke-width:1.65506;stroke-dasharray:none;stroke-opacity:1"
+       d="M 26.458311,2.2480039 12.693953,24.040476 A 17.65939,16.848923 0 0 0 8.7989486,34.541125 17.65939,16.848923 0 0 0 26.458311,51.390782 17.65939,16.848923 0 0 0 44.117718,34.541125 17.65939,16.848923 0 0 0 40.09311,23.835469 Z"
+       inkscape:label="water-drop"
+       sodipodi:insensitive="true" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.352975;stroke-dasharray:none;stroke-opacity:1"
+       id="rect25-5"
+       width="52.56369"
+       height="52.56369"
+       x="-52.846771"
+       y="0.12475368"
+       inkscape:label="card-border"
+       ry="2.9914072"
+       transform="rotate(-90)"
+       sodipodi:insensitive="true" />
+  </g>
+</svg>

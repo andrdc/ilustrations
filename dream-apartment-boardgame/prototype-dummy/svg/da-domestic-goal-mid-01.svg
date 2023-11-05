@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="da-domestic-goal-mid-01.svg"
+   inkscape:export-filename="../png/da-domestic-goal-mid-01.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,7 +32,7 @@
      showborder="true"
      inkscape:zoom="0.90509668"
      inkscape:cx="217.65631"
-     inkscape:cy="373.9932"
+     inkscape:cy="464.59125"
      inkscape:window-width="1918"
      inkscape:window-height="1059"
      inkscape:window-x="0"
@@ -10426,29 +10429,6 @@
          x="-525.46973"
          y="77.325233"
          id="tspan5-9">2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="-604.21393"
-       y="43.640495"
-       id="text1"
-       transform="scale(-1)"
-       inkscape:label="reward"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="-604.21393"
-         y="43.640495"
-         id="tspan3">Pueden jugar</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="-604.21393"
-         y="59.515495"
-         id="tspan6">dos cartas.</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="-604.21393"
-         y="75.390495"
-         id="tspan7">Solo siguiente turno</tspan></text>
     <path
        id="path-1"
        style="display:inline;fill:#2dd750;fill-opacity:1;fill-rule:nonzero;stroke:#2dd750;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
@@ -10899,6 +10879,29 @@
        inkscape:original-d="m 625.35753,71.874302 c 0.0413,-0.211065 0.04,-0.427203 0.0261,-0.640285"
        style="display:inline;fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:5"
        transform="matrix(1.1989553,0,0,1.1989553,-137.78488,-17.687462)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+       x="-590.55359"
+       y="46.050934"
+       id="text1"
+       transform="scale(-1)"
+       inkscape:label="reward"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-590.55359"
+         y="46.050934"
+         id="tspan1">Cada uno toma un</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-590.55359"
+         y="61.925934"
+         id="tspan2">recurso a su</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-590.55359"
+         y="77.800934"
+         id="tspan3">eleccion</tspan></text>
   </g>
   <metadata
      id="metadata2">

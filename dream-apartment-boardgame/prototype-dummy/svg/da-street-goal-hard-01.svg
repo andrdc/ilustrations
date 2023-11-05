@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="da-street-goal-hard-01.svg"
+   inkscape:export-filename="../png/da-street-goal-hard-01.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -28,8 +31,8 @@
      inkscape:document-units="px"
      showborder="true"
      inkscape:zoom="0.90509668"
-     inkscape:cx="446.91358"
-     inkscape:cy="442.49417"
+     inkscape:cx="275.10873"
+     inkscape:cy="444.70387"
      inkscape:window-width="1918"
      inkscape:window-height="1059"
      inkscape:window-x="0"
@@ -11254,19 +11257,23 @@
        inkscape:transform-center-x="-0.00022349773" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="-588.69092"
-       y="-128.28275"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;display:inline;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+       x="-587.63257"
+       y="-135.16182"
        id="text3"
        transform="scale(-1)"
        inkscape:label="goal-text"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="-588.69092"
-         y="-128.28275"
-         id="tspan11"><tspan
-           id="tspan1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1">Quemar Jardineras</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-587.63257"
+         y="-135.16182"
+         id="tspan11"
+         dy="5">Poner Quimicos</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#00360b;fill-opacity:1;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-587.63257"
+         y="-113.99519"
+         id="tspan2">en Tinacos</tspan></text>
     <g
        inkscape:groupmode="layer"
        id="layer4-4"
@@ -11339,55 +11346,6 @@
          d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
          id="path130-2-7-3-3" />
     </g>
-    <g
-       inkscape:label="resource"
-       transform="matrix(-0.21270824,0,0,-0.23910095,595.75122,62.984778)"
-       id="g130-5-6"
-       style="display:inline;fill:#ffef00;fill-opacity:1;stroke-width:2.80396;stroke-dasharray:none">
-      <path
-         inkscape:label="Face:0"
-         style="fill:#ffef00;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="M 34.0108,-26.7615 3.44439,-16.8299 5.50447,31.9033 36.0708,21.9717 Z"
-         id="path128-35-0" />
-      <path
-         inkscape:label="Face:2"
-         style="fill:#ffef00;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 34.0108,-26.7615 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1418 z"
-         id="path129-6-6" />
-      <path
-         inkscape:label="Face:3"
-         style="fill:#ffef00;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
-         id="path130-2-2" />
-    </g>
-    <g
-       inkscape:label="resource"
-       transform="matrix(-0.21270824,0,0,-0.23910095,596.28994,46.462663)"
-       id="g130-5-6-2"
-       style="display:inline;fill:#ffef00;fill-opacity:1;stroke-width:2.80396;stroke-dasharray:none">
-      <path
-         inkscape:label="Face:0"
-         style="fill:#ffef00;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="M 34.0108,-26.7615 3.44439,-16.8299 5.50447,31.9033 36.0708,21.9717 Z"
-         id="path128-35-0-9" />
-      <path
-         inkscape:label="Face:2"
-         style="fill:#ffef00;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 34.0108,-26.7615 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1418 z"
-         id="path129-6-6-9" />
-      <path
-         inkscape:label="Face:3"
-         style="fill:#ffef00;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
-         id="path130-2-2-0" />
-    </g>
-    <path
-       id="path616"
-       style="display:inline;fill:#ffef00;stroke:#000000;stroke-width:0.847959;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:transform-center-x="-0.020369976"
-       inkscape:transform-center-y="-2.9677561"
-       d="m 611.97676,69.368874 22.08326,-21.92749 -7.77391,0.06722 6.44887,-15.493231 -22.08332,21.927596 7.77394,-0.06731 z"
-       inkscape:label="energy" />
     <g
        inkscape:groupmode="layer"
        id="layer2-1"
@@ -11541,6 +11499,53 @@
        inkscape:label="card-border"
        ry="13.069224"
        transform="rotate(180,-4.9908885e-6,-4.3088177e-7)" />
+    <g
+       inkscape:label="resource"
+       transform="matrix(-0.20586366,0,0,-0.23140709,596.79871,62.697673)"
+       id="g130-5-9"
+       style="display:inline;fill:#0024ff;fill-opacity:1;stroke-width:2.80396;stroke-dasharray:none">
+      <path
+         inkscape:label="Face:0"
+         style="fill:#0024ff;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 34.0108,-26.7615 3.44439,-16.8299 5.50447,31.9033 36.0708,21.9717 Z"
+         id="path128-35-2" />
+      <path
+         inkscape:label="Face:2"
+         style="fill:#0024ff;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 34.0108,-26.7615 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1418 z"
+         id="path129-6-0-03" />
+      <path
+         inkscape:label="Face:3"
+         style="fill:#0024ff;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
+         id="path130-2-23" />
+    </g>
+    <g
+       inkscape:label="resource"
+       transform="matrix(-0.20586366,0,0,-0.23140709,595.66346,47.113485)"
+       id="g130-5-9-9"
+       style="display:inline;fill:#0024ff;fill-opacity:1;stroke-width:2.80396;stroke-dasharray:none">
+      <path
+         inkscape:label="Face:0"
+         style="fill:#0024ff;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 34.0108,-26.7615 3.44439,-16.8299 5.50447,31.9033 36.0708,21.9717 Z"
+         id="path128-35-2-2" />
+      <path
+         inkscape:label="Face:2"
+         style="fill:#0024ff;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 34.0108,-26.7615 -39.51527,-5.1418 -30.56633,9.9316 39.51519,5.1418 z"
+         id="path129-6-0-0" />
+      <path
+         inkscape:label="Face:3"
+         style="fill:#0024ff;fill-opacity:1;stroke:#000000;stroke-width:2.80396;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 3.44439,-16.8299 -39.51519,-5.1418 2.06,48.7332 39.51527,5.1418 z"
+         id="path130-2-23-2" />
+    </g>
+    <path
+       id="path620"
+       style="display:inline;fill:#0024ff;fill-opacity:1;stroke:#000000;stroke-width:1.12854;stroke-dasharray:none;stroke-opacity:1"
+       d="m 623.18325,69.065419 8.97318,-15.542347 a 11.512389,12.016621 0 0 0 2.53921,-7.489041 11.512389,12.016621 0 0 0 -11.51239,-12.017145 11.512389,12.016621 0 0 0 -11.5124,12.017145 11.512389,12.016621 0 0 0 2.62369,7.635252 z"
+       inkscape:label="water-drop" />
   </g>
   <metadata
      id="metadata2">

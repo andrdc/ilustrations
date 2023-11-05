@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="da-street-goal-mid-00.svg"
+   inkscape:export-filename="../png/da-street-goal-mid-00.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -29,7 +32,7 @@
      showborder="true"
      inkscape:zoom="0.90509668"
      inkscape:cx="196.66407"
-     inkscape:cy="403.82426"
+     inkscape:cy="492.21261"
      inkscape:window-width="1918"
      inkscape:window-height="1059"
      inkscape:window-x="0"
@@ -9922,29 +9925,6 @@
          x="-525.46973"
          y="77.325233"
          id="tspan5-9">2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-       x="-604.21393"
-       y="43.640495"
-       id="text1"
-       transform="scale(-1)"
-       inkscape:label="reward"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="-604.21393"
-         y="43.640495"
-         id="tspan3">Pueden jugar</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="-604.21393"
-         y="59.515495"
-         id="tspan6">dos cartas.</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
-         x="-604.21393"
-         y="75.390495"
-         id="tspan7">Solo siguiente turno</tspan></text>
     <path
        id="path-1"
        style="display:inline;fill:#2dd750;fill-opacity:1;fill-rule:nonzero;stroke:#2dd750;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
@@ -10258,6 +10238,29 @@
        d="m 623.30933,94.862572 1.10444,-2.9843 a 14.501539,16.78988 0 0 0 0.56163,0.0159 14.501539,16.78988 0 0 0 0.95522,-0.079 l 1.20316,2.96585 a 18.44638,19.842339 0 0 0 3.39148,-0.77935 l -0.0773,-3.3868 a 14.501539,16.78988 0 0 0 1.31885,-0.72335 l 2.38689,2.37162 a 18.44638,19.842339 0 0 0 2.79574,-2.07846 l -1.49747,-3.52647 a 14.501539,16.78988 0 0 0 0.88355,-1.17922 l 3.53247,1.25169 a 18.44638,19.842339 0 0 0 1.70837,-3.03237 l -3.00435,-2.88086 a 14.501539,16.78988 0 0 0 0.39659,-1.40914 l 4.06996,-0.51648 a 18.44638,19.842339 0 0 0 0.35834,-3.42765 l -3.98006,-1.32547 a 14.501539,16.78988 0 0 0 -0.10967,-1.53825 l 3.52127,-2.32222 a 18.44638,19.842339 0 0 0 -1.01339,-3.24252 l -3.89491,0.57248 a 14.501539,16.78988 0 0 0 -0.72375,-1.53496 l 2.13955,-3.359136 a 18.44638,19.842339 0 0 0 -2.20181,-2.520505 l -2.9168,2.001383 A 14.501539,16.78988 0 0 0 632.8215,60.98612 l 0.6286,-3.453345 a 18.44638,19.842339 0 0 0 -3.01487,-1.361704 l -1.68487,2.74515 a 14.501539,16.78988 0 0 0 -1.85524,-0.442702 l -0.61329,-3.110782 a 18.44638,19.842339 0 0 0 -1.30655,-0.100773 18.44638,19.842339 0 0 0 -1.99153,0.1535 l -0.52812,3.184557 a 14.501539,16.78988 0 0 0 -1.81291,0.50133 l -1.76303,-2.675316 a 18.44638,19.842339 0 0 0 -2.99081,1.465793 l 0.75079,3.517239 a 14.501539,16.78988 0 0 0 -1.31592,1.185812 l -2.97962,-1.89334 a 18.44638,19.842339 0 0 0 -2.15132,2.617343 l 2.28349,3.342 a 14.501539,16.78988 0 0 0 -0.6832,1.44933 l -3.8838,-0.42229 a 18.44638,19.842339 0 0 0 -0.93524,3.31763 l 3.61647,2.20494 a 14.501539,16.78988 0 0 0 -0.0892,1.4434 l -3.9466,1.47765 a 18.44638,19.842339 0 0 0 0.4541,3.44609 l 4.08054,0.36364 a 14.501539,16.78988 0 0 0 0.40888,1.34985 l -2.88738,2.96255 a 18.44638,19.842339 0 0 0 1.79353,3.00932 l 3.46196,-1.37159 a 14.501539,16.78988 0 0 0 0.89823,1.13311 l -1.36819,3.52185 a 18.44638,19.842339 0 0 0 2.84449,2.03365 l 2.29348,-2.43749 a 14.501539,16.78988 0 0 0 1.3412,0.67461 l 0.0228,3.35845 a 18.44638,19.842339 0 0 0 3.40968,0.68711 z m 1.66607,-14.02285 a 5.1015264,5.735155 0 0 1 -5.10159,-5.73536 5.1015264,5.735155 0 0 1 5.10159,-5.73536 5.1015264,5.735155 0 0 1 5.101,5.73536 5.1015264,5.735155 0 0 1 -5.101,5.73536 z"
        inkscape:label="tools"
        inkscape:transform-center-x="-0.00022349773" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+       x="-592.63513"
+       y="47.48605"
+       id="text1-7"
+       transform="scale(-1)"
+       inkscape:label="reward"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-592.63513"
+         y="47.48605"
+         id="tspan1">Cada uno toma un</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-592.63513"
+         y="63.36105"
+         id="tspan2">recurso a su</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00360b;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         x="-592.63513"
+         y="79.236053"
+         id="tspan3-7">eleccion</tspan></text>
   </g>
   <metadata
      id="metadata2">

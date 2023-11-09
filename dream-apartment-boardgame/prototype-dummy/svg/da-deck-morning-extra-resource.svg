@@ -31,14 +31,14 @@
      inkscape:document-units="px"
      showborder="true"
      inkscape:zoom="0.87681241"
-     inkscape:cx="238.36342"
+     inkscape:cx="238.93366"
      inkscape:cy="445.36322"
      inkscape:window-width="1918"
      inkscape:window-height="1059"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showguides="false" />
   <defs
      id="defs1">
@@ -9291,14 +9291,14 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Droid Sans Georgian';-inkscape-font-specification:'Droid Sans Georgian, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;mix-blend-mode:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
        x="-588.09857"
-       y="55.701263"
+       y="54.240471"
        id="text1"
        transform="scale(-1)"
        inkscape:label="card-effect"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333326px;font-family:'Droid Sans Georgian';-inkscape-font-specification:'Droid Sans Georgian, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Droid Sans Georgian';-inkscape-font-specification:'Droid Sans Georgian, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
          x="-588.09857"
-         y="55.701263"
+         y="54.240471"
          id="tspan2">Trabajando de día</tspan></text>
     <g
        id="g2"
@@ -9308,7 +9308,7 @@
       <g
          id="g26"
          inkscape:label="resource-quantity"
-         transform="translate(-7.6502591,-1.2525727)"
+         transform="translate(-7.6502591,0.62951067)"
          style="display:inline;fill:none">
         <text
            xml:space="preserve"

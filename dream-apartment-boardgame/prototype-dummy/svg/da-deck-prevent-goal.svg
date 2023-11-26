@@ -29,7 +29,7 @@
      inkscape:document-units="px"
      inkscape:zoom="0.83074313"
      inkscape:cx="255.79507"
-     inkscape:cy="439.96753"
+     inkscape:cy="441.17127"
      inkscape:window-width="1918"
      inkscape:window-height="1059"
      inkscape:window-x="0"
@@ -85,19 +85,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Droid Sans Georgian';-inkscape-font-specification:'Droid Sans Georgian, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0"
        x="84.749214"
-       y="201.6104"
+       y="186.63458"
        id="text1"
        inkscape:label="card-effect"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Droid Sans Georgian';-inkscape-font-specification:'Droid Sans Georgian, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0"
          x="84.749214"
-         y="201.6104"
+         y="186.63458"
          id="tspan4">Evita que se logre</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Droid Sans Georgian';-inkscape-font-specification:'Droid Sans Georgian, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0"
          x="84.749214"
-         y="215.1544"
-         id="tspan1">un objetivo</tspan></text>
+         y="200.17859"
+         id="tspan3">un objetivo y</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Droid Sans Georgian';-inkscape-font-specification:'Droid Sans Georgian, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0"
+         x="84.749214"
+         y="213.7226"
+         id="tspan5">quita un tipo de recurso</tspan></text>
     <image
        width="13.663741"
        height="12.714838"
